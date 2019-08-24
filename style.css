@@ -351,8 +351,17 @@ footer ul {
 		margin-bottom: -444px;
 	}
 
+	footer {
+		padding-top: 40vh;
+	}
+
 	.forms {
 		transform: translateY(200px);
+	}
+
+	.forms input {
+		width: 100%;
+		padding: 0.5em 2em;
 	}
 }
 
